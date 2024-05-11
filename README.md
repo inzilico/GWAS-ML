@@ -7,5 +7,5 @@ Despite a few dozens of risk genetic loci of ischemic stroke (IS) are known, the
 # Overview
 
 ## Code sections
-- ```Manhattan_Plot.ipynb``` contains the code for generating manhattan plot used in paper
-- TODO: tabnet, logreg
+- ```Manhattan_Plot.ipynb``` contains the code for generating manhattan plot used in paper (figure 1)
+- ```LR_plot.ipynb``` contains the code for generating F1 loss dynamic used in paper (figure 2)  
