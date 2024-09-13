@@ -27,3 +27,7 @@ Nikolić S., Ignatov D., Khvorykh G., Limborska S., and Khrunin A., Genome-Wide 
 - ```Manhattan_Plot.ipynb``` contains the code for generating manhattan plot used in paper (figure 1)
 - ```LR_plot.ipynb``` contains the code for generating F1 loss dynamic used in paper (figure 2) 
 - ```pareto_plots.ipynb``` contains the code for obtaining pareto plots and training some models
+
+## Other files
+
+* *dbgap-data-preprocessing.docx* contains the description of preprocessing dbGaP data used in the research.  
