@@ -30,4 +30,4 @@ Nikolić S., Ignatov D., Khvorykh G., Limborska S., and Khrunin A., Genome-Wide 
 
 ## Other files
 
-* *dbgap-data-preprocessing.docx* contains the description of preprocessing dbGaP data used in the research.  
+* **dbgap-data-preprocessing.docx** contains the description of preprocessing dbGaP data used in the research.  
